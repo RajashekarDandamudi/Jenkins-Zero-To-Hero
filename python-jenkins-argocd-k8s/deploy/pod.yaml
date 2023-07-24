@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
   - name: todo-app
-    image: rajashekardandamudi/python-jenkins-argocd-k8s:v1
+    image: rajashekardandamudi/python-jenkins-argocd-k8s
     ports:
     - containerPort: 8000
